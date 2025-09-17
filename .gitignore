@@ -1,0 +1,10 @@
+/casino/.env
+/casino/node_modules
+/casino/dist
+/casino/build
+/casino/public
+/casino/src
+/casino/test
+/casino/test
+/games
+/back/node_modules
