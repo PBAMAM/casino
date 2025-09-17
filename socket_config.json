@@ -2,10 +2,10 @@
 
 "port":"22154/slots",
 
-"host":"377casino.com",
+"host":"Casino.dev.led-con.com",
 "prefix":"https://",
 
-"host_ws":"377casino.com",
+"host_ws":"Casino.dev.led-con.com",
 "prefix_ws":"wss://",
 
 "ssl":true
